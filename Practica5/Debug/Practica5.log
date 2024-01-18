@@ -1,0 +1,3 @@
+﻿  Figura2D.cpp
+C:\Users\alex_\OneDrive\Documentos\Alex\Compu grafica\Practica5\Practica5\Figura2D.cpp(660,2): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Practica5.vcxproj -> C:\Users\alex_\OneDrive\Documentos\Alex\Compu grafica\Practica5\Debug\Practica5.exe
